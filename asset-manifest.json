@@ -1,30 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.158541fd.chunk.css",
-    "main.js": "/static/js/main.c07fda25.chunk.js",
-    "main.js.map": "/static/js/main.c07fda25.chunk.js.map",
+    "main.css": "/static/css/main.ad4de323.chunk.css",
+    "main.js": "/static/js/main.641da218.chunk.js",
+    "main.js.map": "/static/js/main.641da218.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4cfc42b8.js",
     "runtime-main.js.map": "/static/js/runtime-main.4cfc42b8.js.map",
     "static/css/2.56490527.chunk.css": "/static/css/2.56490527.chunk.css",
-    "static/js/2.06f281bc.chunk.js": "/static/js/2.06f281bc.chunk.js",
-    "static/js/2.06f281bc.chunk.js.map": "/static/js/2.06f281bc.chunk.js.map",
+    "static/js/2.5e2913ad.chunk.js": "/static/js/2.5e2913ad.chunk.js",
+    "static/js/2.5e2913ad.chunk.js.map": "/static/js/2.5e2913ad.chunk.js.map",
     "static/js/3.3e250ef8.chunk.js": "/static/js/3.3e250ef8.chunk.js",
     "static/js/3.3e250ef8.chunk.js.map": "/static/js/3.3e250ef8.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.56490527.chunk.css.map": "/static/css/2.56490527.chunk.css.map",
-    "static/css/main.158541fd.chunk.css.map": "/static/css/main.158541fd.chunk.css.map",
-    "static/js/2.06f281bc.chunk.js.LICENSE.txt": "/static/js/2.06f281bc.chunk.js.LICENSE.txt",
+    "static/css/main.ad4de323.chunk.css.map": "/static/css/main.ad4de323.chunk.css.map",
+    "static/js/2.5e2913ad.chunk.js.LICENSE.txt": "/static/js/2.5e2913ad.chunk.js.LICENSE.txt",
     "static/media/22.592fac06.jpeg": "/static/media/22.592fac06.jpeg",
+    "static/media/Contact.cf5224e0.png": "/static/media/Contact.cf5224e0.png",
     "static/media/Nucamp.29907fec.png": "/static/media/Nucamp.29907fec.png",
     "static/media/Header.css": "/static/media/code.9e44db43.jpeg",
     "static/media/jesse.1cf0810e.png": "/static/media/jesse.1cf0810e.png",
-    "static/media/p72.71aa14bb.png": "/static/media/p72.71aa14bb.png"
+    "static/media/p72.71aa14bb.png": "/static/media/p72.71aa14bb.png",
+    "static/media/tarjeta.153f7edd.png": "/static/media/tarjeta.153f7edd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4cfc42b8.js",
     "static/css/2.56490527.chunk.css",
-    "static/js/2.06f281bc.chunk.js",
-    "static/css/main.158541fd.chunk.css",
-    "static/js/main.c07fda25.chunk.js"
+    "static/js/2.5e2913ad.chunk.js",
+    "static/css/main.ad4de323.chunk.css",
+    "static/js/main.641da218.chunk.js"
   ]
 }
