@@ -4,6 +4,7 @@ import p72 from '../assets/images/p72.png'
 import Nucamp from '../assets/images/Nucamp.png'
 import tarjeta from '../assets/images/tarjeta.png'
 import plan from '../assets/images/Contact.png'
+import portfolio from '../assets/images/portfolio.png'
 import '../css/Portfolio.css'
 // Fontawesome Imports
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -61,6 +62,54 @@ const Portfolio = () => {
         titleBar: {
           enable: true,
           text: 'Bootstrap | Project 72'
+        },
+        fadeIn: true,
+        fadeInSpeed: 500
+      }
+    })
+  }//  Portfolio Website
+  const openPopupboxpportfolio = () => {
+    const content = (
+      <>
+        <img
+          className='portfolio'
+          src={portfolio}
+          alt='Portfolio'
+          
+        />
+        <p>
+        A site created using react 
+        that showcases various projects I created or assisted on, 
+        and also has my resume and contact information.
+        Built with Reast / Bootstrap
+        </p>
+        <a
+          href='/'
+          className='hyper-link'
+          onClick={() =>
+            window.open(
+              'https://jjgarcilazo.github.io/'
+            )
+          }
+        >
+          Link to demo
+        </a>
+        <br />
+        <a
+          href='/'
+          className='hyper-link'
+          onClick={() => window.open('https://github.com/jjgarcilazo/jjgarcilazo.github.io')}
+        >
+          Github Code
+        </a>
+      </>
+    )
+    PopupboxManager.open({
+      content,
+      config: {
+        titleBar: {
+          enable: true,
+          text: 'React | Portfolio Website'
         },
         fadeIn: true,
         fadeInSpeed: 500
@@ -277,7 +326,21 @@ const Portfolio = () => {
             />
             <div className='overflow'></div>
             <FontAwesomeIcon className='portfolio-icon' icon={faSearchPlus} />
-          </div>          
+          </div>      
+          {/* - */}
+          <div
+            className='portfolio-image-box'
+            onClick={openPopupboxpportfolio}
+
+          >
+            <img
+              src={portfolio}
+              alt='portfolio'
+              className='portfolio-image'
+            />
+            <div className='overflow'></div>
+            <FontAwesomeIcon className='portfolio-icon' icon={faSearchPlus} />
+          </div>              
           
             
         </div>

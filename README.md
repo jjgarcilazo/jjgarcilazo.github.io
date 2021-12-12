@@ -4,7 +4,7 @@
 
 ## Deployment
 
-Deployed to personal Cloud based VPS  
+Deployed to Github Pages
 [Live version](https://jjgarcilazo.github.io)
 
 ## Built with

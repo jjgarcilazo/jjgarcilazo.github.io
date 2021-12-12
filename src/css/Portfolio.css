@@ -15,6 +15,9 @@
 
     max-width: 40%;
   }
+  .portfolio {
+    max-width: 30%;
+  }
   /* ***************** Portfolio **************************** */
   .portfolio-wrapper {
     background: var(--primary-light-grey);
