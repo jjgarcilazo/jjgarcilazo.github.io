@@ -1,4 +1,4 @@
-# Jesse's Personal Portfolio Website
+# Jesse Garcilazo's Personal Portfolio Website
 
 ###### A site created using react that showcases various projects I created or assisted on, and also has my resume and contact information.
 
