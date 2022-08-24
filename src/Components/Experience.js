@@ -82,7 +82,7 @@ const Experience = () => {
                  -Built, modified and maintained numerous scalable applications/websites from inception to completion with the guidance and instruction from senior developers.
               </li>
               <li>
-              -Trained in a project oriented environment modeled after real-world workplace focused on collaborative development utilizing common languages, frameworks, and libraries including HTML5, CSS3, JavaScript, Bootstrap, PHP, SQL and MySQL.
+              -Trained in a project oriented environment modeled after real-world workplace focused on collaborative development utilizing common languages, frameworks, and libraries including HTML5, CSS3, JavaScript, Bootstrap, SQL and MySQL.
 
               </li>
               <li>
