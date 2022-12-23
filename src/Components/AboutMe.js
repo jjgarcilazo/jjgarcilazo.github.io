@@ -16,7 +16,7 @@ const AboutMe = () => {
           <p>
             Hello, I am a Full Stack Web Developer seeking a new challenge in
             web development. I love to create and think outside the box when it
-            comes to designing web sites. With a little over 1 years of experience in
+            comes to designing web sites. With a little over 2 years of experience in
             the IT industry, I have worked with a vast array of technologies
             including: React, Javascript, Mongo DB, Ruby on Rails, Python, Bootstrap and various other languages and applications.
           </p>
