@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c9e7a39.chunk.css",
-    "main.js": "/static/js/main.b001978f.chunk.js",
-    "main.js.map": "/static/js/main.b001978f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4cfc42b8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4cfc42b8.js.map",
-    "static/css/2.56490527.chunk.css": "/static/css/2.56490527.chunk.css",
-    "static/js/2.e231627d.chunk.js": "/static/js/2.e231627d.chunk.js",
-    "static/js/2.e231627d.chunk.js.map": "/static/js/2.e231627d.chunk.js.map",
-    "static/js/3.3e250ef8.chunk.js": "/static/js/3.3e250ef8.chunk.js",
-    "static/js/3.3e250ef8.chunk.js.map": "/static/js/3.3e250ef8.chunk.js.map",
+    "main.css": "/static/css/main.06887066.chunk.css",
+    "main.js": "/static/js/main.69c9244f.chunk.js",
+    "main.js.map": "/static/js/main.69c9244f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.299fda2f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.299fda2f.js.map",
+    "static/css/2.ae010135.chunk.css": "/static/css/2.ae010135.chunk.css",
+    "static/js/2.b32bbf7c.chunk.js": "/static/js/2.b32bbf7c.chunk.js",
+    "static/js/2.b32bbf7c.chunk.js.map": "/static/js/2.b32bbf7c.chunk.js.map",
+    "static/js/3.58ac04f4.chunk.js": "/static/js/3.58ac04f4.chunk.js",
+    "static/js/3.58ac04f4.chunk.js.map": "/static/js/3.58ac04f4.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.56490527.chunk.css.map": "/static/css/2.56490527.chunk.css.map",
-    "static/css/main.8c9e7a39.chunk.css.map": "/static/css/main.8c9e7a39.chunk.css.map",
-    "static/js/2.e231627d.chunk.js.LICENSE.txt": "/static/js/2.e231627d.chunk.js.LICENSE.txt",
+    "static/css/2.ae010135.chunk.css.map": "/static/css/2.ae010135.chunk.css.map",
+    "static/css/main.06887066.chunk.css.map": "/static/css/main.06887066.chunk.css.map",
+    "static/js/2.b32bbf7c.chunk.js.LICENSE.txt": "/static/js/2.b32bbf7c.chunk.js.LICENSE.txt",
     "static/media/22.592fac06.jpeg": "/static/media/22.592fac06.jpeg",
     "static/media/Contact.cf5224e0.png": "/static/media/Contact.cf5224e0.png",
     "static/media/Nucamp.29907fec.png": "/static/media/Nucamp.29907fec.png",
@@ -24,10 +24,10 @@
     "static/media/tarjeta.153f7edd.png": "/static/media/tarjeta.153f7edd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4cfc42b8.js",
-    "static/css/2.56490527.chunk.css",
-    "static/js/2.e231627d.chunk.js",
-    "static/css/main.8c9e7a39.chunk.css",
-    "static/js/main.b001978f.chunk.js"
+    "static/js/runtime-main.299fda2f.js",
+    "static/css/2.ae010135.chunk.css",
+    "static/js/2.b32bbf7c.chunk.js",
+    "static/css/main.06887066.chunk.css",
+    "static/js/main.69c9244f.chunk.js"
   ]
 }
