@@ -1,6 +1,6 @@
 import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faNodeJs, faGithub, faReact, faSketch, faJira, faBootstrap, faApple, faPython } from '@fortawesome/free-brands-svg-icons'
+import { faNodeJs, faGithub, faReact, faJira, faBootstrap, faApple, faAws, faGoogle } from '@fortawesome/free-brands-svg-icons'
 import '../css/Skills.css'
 
 const Skills = () => {
@@ -41,12 +41,12 @@ const Skills = () => {
           <div className='col-lg-3 col-md-6 col-sm-6'>
             <div className='box'>
               <div className='circle'>
-                <FontAwesomeIcon className='icon' icon={faPython} size='2x' />
+                <FontAwesomeIcon className='icon' icon={faAws} size='2x' />
               </div>
-              <h3>Python</h3>
+              <h3>AWS</h3>
               <p>
-             Python is a computer programming language often used to build websites and software,
-             automate tasks, and conduct data analysis.
+             Understanding of AWS cloud development.
+             Cloud practioner certified
               </p>
             </div>
           </div>
@@ -108,12 +108,11 @@ const Skills = () => {
           <div className='col-lg-3 col-md-6 col-sm-6'>
             <div className='box'>
               <div className='circle'>
-                <FontAwesomeIcon className='icon' icon={faSketch} size='2x' />
+                <FontAwesomeIcon className='icon' icon={faGoogle} size='2x' />
               </div>
-              <h3>Sketch</h3>
+              <h3>Google</h3>
               <p>
-                Image result for sketch app
-                Sketch is used primarily for designing the UI and UX of mobile apps and web.
+                Understanding of Deployment and development with Google Cloud.
               </p>
             </div>
           </div>

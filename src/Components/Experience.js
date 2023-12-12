@@ -8,11 +8,57 @@ const Experience = () => {
         <h1>experience</h1>
       </div>
       <div className='container experience-wrapper'>
-      <div className='timeline-block timeline-block-right'>
+      <div className='timeline-block timeline-block-left'>
+          <div className='marker'></div>
+          <div className='timeline-content'>
+          <img src="https://cdn.worldvectorlogo.com/logos/accenture-6.svg" width = "120" height = "90"/>
+            <h3>July 2022 - Present</h3>
+            <p>
+            Business Architect
+               &emsp;&ensp;               
+               &emsp;&ensp;
+               Accenture
+               &emsp;&ensp;Los Angeles, CA
+            </p>
+            <ul>
+              <li>Work With Fortune 500 Clients utilizing the following Skills to complete application development.Assigned to Front End Product Engineering Team.
+                  Developed Strategies to Implement within client’s needs.
+                  Debug and Maintain Code within client Network. CMS, Javascript, Ruby, ReactJS, SaSS Programming, and Jira.
+                  <br></br>
+                  <br></br>
+                  Skills: Product Development · Product Design · Java · Adobe Experience Manager (AEM) · Consulting · Cascading Style Sheets (CSS) · JavaScriptSkills · SonarQube
+              </li>
+              
+            </ul>
+          </div>
+        </div><div className='timeline-block timeline-block-right'>
+          <div className='marker'></div>
+          <div className='timeline-content'>
+          <img src="https://upload.wikimedia.org/wikipedia/en/2/20/CapitalGroup_Company_Logo.png" width = "120" height = "90"/>
+            <h3>July 2023 - December 2023</h3>
+            <p>
+            Solution Engineer
+               &emsp;&ensp;               
+               &emsp;&ensp;
+               Capital Group
+               &emsp;&ensp;Irvine,CA
+            </p>
+            <ul>
+              <li>Worked on Investor and Advisor applications and developed fixes</li>
+                <li> wrote code in pair programming style with test driven development.<br></br>
+              Skills: Product Development · Product Design · Java 
+              <br></br>· Amazon Web Services (AWS) · Consulting <br></br>· Cascading Style Sheets (CSS)· JavaScript · SonarQube · TDD
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+
+      <div className='timeline-block timeline-block-left'>
           <div className='marker'></div>
           <div className='timeline-content'>
           <img src="https://cdn.worldvectorlogo.com/logos/kaiser-permanente-2.svg" alt= "KP" width = "200" height = "150"/>
-            <h3>August 2022-Present</h3>
+            <h3>August 2022-August 2023</h3>
             <p>Front End Developer
                &emsp;&ensp;               
                Kaiser Permanente 
@@ -21,38 +67,25 @@ const Experience = () => {
             </p>
             <ul>
               <li>
-              Front End Developer / EPIC/MYCHART FED Team, MedicareNet and BCSSP projects , redesign of the Kaiser Permanente company website 
-Front-end Responsive Web Development, TeamSite CMS, HTML5, CSS3, Javascript, jQuery, AngularJS 1.6, SaSS Programming and SonarQube.              </li>
-              
-            </ul>
-          </div>
-        </div>
-        
-      <div className='timeline-block timeline-block-left'>
-          <div className='marker'></div>
-          <div className='timeline-content'>
-          <img src="https://cdn.worldvectorlogo.com/logos/accenture-6.svg" width = "120" height = "90"/>
-            <h3>July 2022 - Present</h3>
-            <p>
-            Product Engineering Associate
-               &emsp;&ensp;               
-               &emsp;&ensp;
-               Accenture
-               &emsp;&ensp;Los Angeles, CA
-            </p>
-            <ul>
-              <li>Work With Fortune 500 Clients utilizing the following Skills to complete application development.
-              Skills: Product Development · Product Design · Java · Adobe Experience Manager (AEM) · Consulting · Cascading Style Sheets (CSS) · JavaScriptSkills · SonarQube
+              Front End Developer / EPIC/MYCHART FED Team</li>
+              <li>
+              Redesign of the Kaiser Permanente company website
+              </li>
+              <li>
+              Assigned to Team that Maintains and Updates StyleGuides and Patterns Library.
+              <br></br>
+              Skills: Front-end Responsive Web Development, TeamSite CMS, HTML5, CSS3, Javascript, jQuery, AngularJS 1.6, SaSS Programming , SonarQube , and Jira.
               </li>
               
             </ul>
           </div>
         </div>
+        
         <div className='timeline-block timeline-block-right'>
           <div className='marker'></div>
           <div className='timeline-content'>
           <img src="https://arizent.brightspotcdn.com/e7/36/6e38f8ca4fc8ad60217e6a52b197/icloud-demo.jpg" width = "200" height = "50"/>
-            <h3>July 2022 - Present</h3>
+            <h3>July 2021 - May 2022</h3>
             <p>
             Jr. Front End Developer
                &emsp;&ensp;               
@@ -156,6 +189,27 @@ Front-end Responsive Web Development, TeamSite CMS, HTML5, CSS3, Javascript, jQu
               -Extensively utilized Github for version control in an agile development environment.
 
               </li>
+            </ul>
+          </div>
+        </div>
+        <div className='timeline-block timeline-block-right'>
+          <div className='marker'></div>
+          <div className='timeline-content'>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/WGU-Marketing-logo.png/220px-WGU-Marketing-logo.png" width= "200" height ="50" />
+            <h3>2020-2021</h3>
+            <p>Western Governors University&emsp;&ensp;Bachelor of Software Engineering  &emsp;&ensp;Student&emsp;&ensp;Millcreek, Utah</p>
+            <ul>
+              <li>
+              -Successfully completed Software Engineering Degree Program
+               </li>
+               <li>
+                 -Built, modified and maintained numerous scalable applications/websites from inception to completion with the guidance and instruction from senior developers.
+              </li>
+              <li>
+              -Trained in a project oriented environment modeled after real-world workplace focused on collaborative development utilizing common languages, frameworks, and libraries including HTML5, CSS3, JavaScript, AngularJS,and Java.
+
+              </li>
+              
             </ul>
           </div>
         </div>

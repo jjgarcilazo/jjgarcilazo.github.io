@@ -14,11 +14,12 @@ const AboutMe = () => {
         <div className='col-lg-6 col-xs-12'>
           <h1 className='about-heading'>about me</h1>
           <p>
-            Hello, I am a Full Stack Web Developer seeking a new challenge in
+            Hello, I am a Full Stack Software Engineer seeking a new challenge in
             web development. I love to create and think outside the box when it
-            comes to designing web sites. With a little over 2 years of experience in
-            the IT industry, I have worked with a vast array of technologies
-            including: React, Javascript, Mongo DB, Ruby on Rails, Python, Bootstrap and various other languages and applications.
+            comes to designing web sites. With a little over 3 years of experience in
+            the industry, I have worked with a vast array of technologies
+            including: React, Javascript, Java, Mongo DB, Ruby, AngularJS,
+            Bootstrap and various other languages and applications including understanding of Cloud deployments Via AWS or Google.
           </p>
         </div>
       </div>
